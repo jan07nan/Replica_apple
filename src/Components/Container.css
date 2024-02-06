@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+}
+
+.font1{
+    padding-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+
+.font2{
+    padding-top:-50px;
+    margin-top: -20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.font3{
+    padding-top:-40px;
+    margin-top: -10px;
+    color:#2997ff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+.img{
+  margin-top: -10px;
+  height: 400px;
+  width: 100%;
+  object-fit:contain;
+}
+
+.displayFlex{
+    display: flex;
+    flex-direction: row;
+    width: 98%;
+    margin-top:15px;
+    margin-left:20px;
+}

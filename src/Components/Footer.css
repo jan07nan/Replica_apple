@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.list{
+    margin-top: -14px;
+    background-color: #F5F5F7;
+    display: flex;
+    flex-direction: row;
+}
+.list h4{
+    color:#161616;
+    margin-left: 180px;
+    font-size: 13px;
+}
+
+.list p{
+    color:#6E6E73;
+    font-size: 13px;
+    margin-left: 180px;
+    text-align: justify;
+    text-justify: inter-word;
+}
